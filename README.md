@@ -59,7 +59,7 @@ Este desafio marca o início na área de Data Science, permitindo aplicar concei
 
 ## Autor
 
-Projeto desenvolvido por [Seu Nome].
+Projeto desenvolvido por Fernanda Braz.
 
 ---
 
